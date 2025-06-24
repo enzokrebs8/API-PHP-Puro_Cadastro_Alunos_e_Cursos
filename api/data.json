@@ -1,4 +1,54 @@
 {
-    "alunos": [],
-    "cursos": []
-  }
+    "alunos": [
+        {
+            "nome": "Enzo Krebs",
+            "email": "novo.email@exemplo.com",
+            "matricula": "20072411",
+            "curso_id": "6859b7a374446",
+            "id": "6859b9160d72d"
+        },
+        {
+            "id": "6859d7f6cce84",
+            "nome": "Maria Atualizado",
+            "email": "novo.email@exemplo.com",
+            "matricula": "2023001",
+            "curso_id": "6859b7a374446",
+            "data_criacao": "2025-06-23 22:40:54",
+            "data_atualizacao": "2025-06-23 23:13:09"
+        },
+        {
+            "id": "6859dce32a02c",
+            "nome": "Letícia Almeida",
+            "email": "lele2@email.com",
+            "matricula": "3453454534",
+            "curso_id": "6859d3dc41b3d",
+            "data_criacao": "2025-06-23 23:01:55"
+        }
+    ],
+    "cursos": [
+        {
+            "nome": "Programação Web",
+            "descricao": "Curso de desenvolvimento web com PHP",
+            "carga_horaria": 80,
+            "vagas": 20,
+            "id": "6859b7a374446"
+        },
+        {
+            "id": "6859d3dc41b3d",
+            "nome": "Banco de Dados - MySQL",
+            "descricao": "Curso completo de Banco de Dados em MYSQL",
+            "carga_horaria": 80,
+            "vagas": 20,
+            "data_criacao": "2025-06-23 22:23:24",
+            "data_atualizacao": "2025-06-23 23:27:27"
+        },
+        {
+            "id": "6859e198768b8",
+            "nome": "Economia Básica para Iniciantes",
+            "descricao": "Curso introdutório de Economia para Iniciantes",
+            "carga_horaria": 60,
+            "vagas": 30,
+            "data_criacao": "2025-06-23 23:22:00"
+        }
+    ]
+}
